@@ -8,6 +8,7 @@ import java.util.Stack;
 import static org.example.CountPrefixAndSuffixPairs.countPrefixSuffixPairs;
 import static org.example.IsPalindrome.isPalindrome;
 import static org.example.LongestCommonPrefix.longestCommonPrefix;
+import static org.example.MaxOperations.maxOperations;
 import static org.example.RomanToInt.romanToInt;
 import static org.example.ValidParentheses.isValid;
 
@@ -19,8 +20,11 @@ public class Main {
 //        longestCommonPrefix(new String[]{"a", "a", "b"});
 //        System.out.println(isValid("(())"));
 //        System.out.println(countPrefixSuffixPairs(new String[]{"a","aba","ababa","aa"}));
+//        System.out.println(maxOperations(new int[]{3,2,1,4,1}));
+
 
     }
+
 
 
 
